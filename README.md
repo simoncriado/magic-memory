@@ -1,6 +1,6 @@
 # Magic Memory Game
 
-Project part of an online React course. I choose to do this to practice my React skills. Key project functionalities:
+Project part of an online React course. I chose to do this project to practice my React skills. Key project functionalities:
 
   - Start a new game.
   - If the two cards you select to not match they flip again so that you cannot see them.
